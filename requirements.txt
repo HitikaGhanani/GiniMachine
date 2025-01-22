@@ -1,0 +1,22 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Machine Learning
+tensorflow
+keras
+
+# Web Scraping
+beautifulsoup4
+requests
+
+# Backend Development
+flask
+django
+
+# Others
+jupyterlab
+notebook
