@@ -4,19 +4,23 @@ pandas
 scikit-learn
 matplotlib
 seaborn
-
-# Machine Learning
 tensorflow
 keras
-
-# Web Scraping
+xgboost 
 beautifulsoup4
 requests
-
-# Backend Development
 flask
 django
-
-# Others
 jupyterlab
 notebook
+streamlit
+re
+joblib
+sklearn
+lightgbm
+plotly
+math
+sklearn
+openai
+nest_asyncio
+asyncio
