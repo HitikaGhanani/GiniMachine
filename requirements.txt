@@ -6,21 +6,24 @@ matplotlib
 seaborn
 tensorflow
 keras
-xgboost 
+xgboost
+lightgbm
+plotly
+
+# Web scraping and requests
 beautifulsoup4
 requests
+
+# Web frameworks
 flask
 django
+
+# Development tools
 jupyterlab
 notebook
 streamlit
-re
 joblib
-sklearn
-lightgbm
-plotly
-math
-sklearn
+
+# Optional (only include if actively used in your project)
 openai
 nest_asyncio
-asyncio
