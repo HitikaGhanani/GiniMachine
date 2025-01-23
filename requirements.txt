@@ -8,6 +8,7 @@ tensorflow
 keras
 xgboost
 lightgbm
+openpyxl
 plotly
 
 # Web scraping and requests
