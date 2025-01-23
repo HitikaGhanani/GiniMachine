@@ -31,7 +31,7 @@ from sklearn.manifold import TSNE
 
 
 #2.Data Loading
-file_path = "/content/Credit_Card_Eligibility_Data.xlsx"
+file_path = "content/Credit_Card_Eligibility_Data.xlsx"
 data = pd.read_excel(file_path)
 
 #3.Data Pre-processing
